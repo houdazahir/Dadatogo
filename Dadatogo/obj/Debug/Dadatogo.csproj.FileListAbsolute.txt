@@ -1,0 +1,384 @@
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Dadatogo.dll.config
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csc.exe
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csc.exe.config
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csc.rsp
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csi.exe
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csi.exe.config
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\csi.rsp
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.AppContext.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Console.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.IO.Compression.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Net.Http.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.ValueTuple.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\vbc.exe
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\vbc.exe.config
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\vbc.rsp
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\VBCSCompiler.exe
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Antlr3.Runtime.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Newtonsoft.Json.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Net.Http.Formatting.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Helpers.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Http.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Http.WebHost.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Mvc.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Optimization.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Razor.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.Razor.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\WebGrease.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Newtonsoft.Json.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Net.Http.Formatting.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Helpers.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Http.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Http.WebHost.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Mvc.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Optimization.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.Razor.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\System.Web.WebPages.Razor.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Antlr3.Runtime.pdb
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Http.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.AssemblyReference.cache
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.CoreCompileInputs.cache
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.CopyComplete
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\obj\Debug\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\COURS 3A\STAGE\PROJET_DADATOGO\Dadatogo\Dadatogo\obj\Debug\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Dadatogo.dll.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csc.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csc.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csc.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csi.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csi.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\csi.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.AppContext.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Console.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.IO.Compression.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Net.Http.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.ValueTuple.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\vbc.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\vbc.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\vbc.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\VBCSCompiler.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Antlr3.Runtime.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Newtonsoft.Json.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Net.Http.Formatting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Helpers.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Http.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Http.WebHost.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Mvc.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Optimization.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Razor.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.Razor.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\WebGrease.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Newtonsoft.Json.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Net.Http.Formatting.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Helpers.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Http.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Http.WebHost.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Mvc.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Optimization.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.Razor.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\System.Web.WebPages.Razor.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Antlr3.Runtime.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Http.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.AssemblyReference.cache
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.CoreCompileInputs.cache
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\obj\Debug\Dadatogo.csproj.CopyComplete
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\obj\Debug\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo\Dadatogo\obj\Debug\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Dadatogo.dll.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.AppContext.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Console.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.Compression.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Net.Http.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.ValueTuple.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.rsp
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\VBCSCompiler.exe
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Antlr3.Runtime.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Newtonsoft.Json.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Net.Http.Formatting.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Helpers.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.WebHost.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Mvc.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Optimization.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Razor.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Razor.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\WebGrease.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Newtonsoft.Json.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Net.Http.Formatting.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Helpers.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.WebHost.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Mvc.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Optimization.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.Razor.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Razor.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Antlr3.Runtime.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Http.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.AssemblyReference.cache
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.CoreCompileInputs.cache
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.CopyComplete
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.pdb
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\EASendMail.dll
+C:\Users\houda\OneDrive\Bureau\Dadatogo - Copie\Dadatogo\bin\LocalStorage.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Dadatogo.dll.config
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Dadatogo.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Dadatogo.pdb
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.exe
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.exe.config
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csc.rsp
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.exe
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.exe.config
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\csi.rsp
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.AppContext.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Console.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.Compression.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Net.Http.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Net.Sockets.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.ValueTuple.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.exe
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.exe.config
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\vbc.rsp
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\VBCSCompiler.exe
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Antlr3.Runtime.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\EASendMail.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\LocalStorage.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Newtonsoft.Json.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Net.Http.Formatting.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Helpers.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.WebHost.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Mvc.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Optimization.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Razor.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Razor.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\WebGrease.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Newtonsoft.Json.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Net.Http.Formatting.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Helpers.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Http.WebHost.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Mvc.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Optimization.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.Razor.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\System.Web.WebPages.Razor.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Antlr3.Runtime.pdb
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Http.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.Razor.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.AssemblyReference.cache
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.CoreCompileInputs.cache
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.csproj.CopyComplete
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.dll
+C:\Users\houda\Desktop\COURS\STAGE\Dadatogo - Copie\Dadatogo\obj\Debug\Dadatogo.pdb
